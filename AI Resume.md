@@ -163,6 +163,19 @@ Predicted Job Role: CHEF
 
  https://resumeproject-p6a3x7bp7d87fsfkhqrs4f.streamlit.app/
 
+## 📸 Screenshots
+
+### Resume Output 1
+![Resume Output 1](resume_output_1.png)
+
+### Resume Output 2
+![Resume Output 2](resume_output_2.png)
+
+---
+
+## 🎥 Demo Video
+
+[Click to watch demo](resume_analyzer.mp4)
 
 
 **Tech Stack**
