@@ -159,7 +159,7 @@ Resume Upload \& Prediction
 
 Predicted Job Role: CHEF
 
- Live Demo
+**Live Demo**
 
  https://resumeproject-p6a3x7bp7d87fsfkhqrs4f.streamlit.app/
 
@@ -264,15 +264,10 @@ project-name/
 
 Thiviyesh K
 
-Aspiring Data Analyst | AI Projects Builder
+Aspiring Data Analyst
 
 
 
-###### **Conclusion**
-
-
-
-This project demonstrates how AI can transform traditional recruitment into a \*\*smart, automated, and scalable system\*\*, making hiring faster and more efficient.
 
 
 
