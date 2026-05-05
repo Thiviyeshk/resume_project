@@ -159,6 +159,10 @@ Resume Upload \& Prediction
 
 Predicted Job Role: CHEF
 
+ Live Demo
+
+ https://resumeproject-p6a3x7bp7d87fsfkhqrs4f.streamlit.app/
+
 
 
 **Tech Stack**
